@@ -28,8 +28,8 @@
 
 <div>
   <a href="https://github.com/Darkx32"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Darkx32&theme=dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkx32&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Darkx32&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkx32&layout=compact&theme=dark"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
