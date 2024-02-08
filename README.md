@@ -15,7 +15,6 @@
 
 - Eu construo aplicativos para Desktop 💻
 - Mexo com back-end e um pouco de front-end 🎈
-- Sou um iniciante na área ✨
 
 <div style="display: inline_block">
   <img align="center" alt="Darkx32-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
