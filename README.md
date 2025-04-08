@@ -1,4 +1,4 @@
-### Hi, Darkx here 👋👋
+### Hi, Matheus Gomes here 👋👋
 
 - I build desktop applications, such as games, physics simulators, libraries and tools. 💻
 - I work with more raw tools using C++. 🤓
