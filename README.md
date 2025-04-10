@@ -22,4 +22,4 @@
 ### 🎇 My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkx32&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkx32&layout=donut&theme=github_dark)
